@@ -25,7 +25,7 @@ Kelas   :TI 22 B2
 • Menampilkan tulisan “Hello” dilayar
 • Menampilkan tulisan “Saya sedang belajar python” dilayar
 
-![image](sc/latihan1.PNG)
+![image](SC/latihan1.PNG)
 
 # LATIHAN 2
 • Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
@@ -34,7 +34,7 @@ Kelas   :TI 22 B2
 • Mencetak nilai variable a dan b
 • Mencetak hasil penjumlahan a+b
 
-![image](sc/latihan2.PNG)
+![image](SC/latihan2.PNG)
 
 
 
