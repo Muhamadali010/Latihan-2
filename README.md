@@ -12,3 +12,11 @@ Kelas   :TI 22 B2
 
 ![image](sc/Capture1.PNG)
 
+2. Setelah download selesai, install aplikasinya
+
+<strong>centang bagian "Add python.exe to PATH"<strong>
+
+![image](sc/Capture2.png)
+
+3. 
+
