@@ -10,13 +10,13 @@ Kelas   :TI 22 B2
 
 1. Download terlebih dahulu di web resminya [www.python.org](https://www.python.org/downloads/)
 
-![image](sc/Capture1.PNG)
+![image](SC/Capture1.PNG)
 
 2. Setelah download selesai, install aplikasinya
 
 <strong>centang bagian "Add python.exe to PATH"<strong>
 
-![image](sc/Capture2.png)
+![image](SC/Capture2.png)
 
 3. Setelah Vscode di install jalankan Aplikasinya dan install Extension Python
 
@@ -35,6 +35,28 @@ Kelas   :TI 22 B2
 • Mencetak hasil penjumlahan a+b
 
 ![image](SC/latihan2.PNG)
+
+# LATIHAN 3
+
+#input nilai variabel
+a = input("masukan nilai a: ")
+b = input("masukan nilai b: ")
+
+#cetak nilai variabel
+print("variabel a = ", a)
+print("variabel b = ", b)
+
+#cetak hasil kedua operasi variabel dengan string format
+print("Hasil Penggabungan {1} & {0} = ".format(a,b) + str(a)+str(b))
+
+#konversi nilai variabel 
+a = int(a);
+b = int(b);
+
+print("Hasil penjumlahan {1} + {0} = %d".format(a,b) %(a+b))
+print("Hasil pembagian {1} / {0} = %d".format(a,b) %(a/b))
+
+
 
 
 
