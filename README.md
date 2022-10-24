@@ -18,6 +18,26 @@ Kelas   :TI 22 B2
 
 ![image](sc/Capture2.png)
 
-3. selanjutnya
+3. Setelah Vscode di install jalankan Aplikasinya dan install Extension Python
+
+# LATIHAN 1
+• Menjalankan Python Console
+• Menampilkan tulisan “Hello” dilayar
+• Menampilkan tulisan “Saya sedang belajar python” dilayar
+
+![image](sc/latihan1.PNG)
+
+# LATIHAN 2
+• Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
+• Mendefinisikan variable a dengan nilai 8
+• Mendefinisikan variable b dengan nilai 9
+• Mencetak nilai variable a dan b
+• Mencetak hasil penjumlahan a+b
+
+![image](sc/latihan2.PNG)
+
+
+
+
 
 
